@@ -2,9 +2,9 @@
 
 
 
-1. Business Problem 
+# 1. Business Problem 
 
-1.1 Description 
+# 1.1 Description 
 
 
 Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world.
@@ -61,7 +61,7 @@ We build train and test by randomly splitting in the ratio of 70:30 or 80:20 wha
 
 
 
-Feature Extraction:
+# Feature Extraction:
 
 
 Basic Features - Extracted some features before cleaning of data as below.
@@ -101,7 +101,8 @@ Euclidean distance
 Minkowski distance
 
 
-Machine Learning Models:
+# Machine Learning Models:
+
 Trained a random model to check Worst case log loss and got log loss as 0.887699
 Trained some models and also tuned hyperparameters using Random and Grid search. I didnt used total train data to train my algorithms. Because of ram availability constraint in my PC, i sampled some data and Trained my models. below are models and their logloss scores. you can check total modelling and feature extraction here
 For below table BF - Basic features, AF - Advanced features, DF - Distance Features including WMD.
