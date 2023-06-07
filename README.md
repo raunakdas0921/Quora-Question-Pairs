@@ -108,7 +108,9 @@ Trained some models and also tuned hyperparameters using Random and Grid search.
 For below table BF - Basic features, AF - Advanced features, DF - Distance Features including WMD.
 
 
-References:
+# References:
+
+
 https://www.kaggle.com/c/quora-question-pairs
 https://www.kaggle.com/c/quora-question-pairs/discussion
 Applied AI Course
